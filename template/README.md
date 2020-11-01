@@ -16,6 +16,7 @@ First add required devDependencies in `package.json`:
   "@typescript-eslint/eslint-plugin": "^4.6.0",
   "@typescript-eslint/parser": "^4.6.0",
   "eslint-config-prettier": "^6.15.0",
+  "eslint-plugin-prettier": "^3.1.4",
   "eslint-plugin-react": "^7.21.5",
   "husky": "^4.3.0",
   "prettier": "^2.1.2"
