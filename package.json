@@ -1,0 +1,15 @@
+{
+  "name": "cra-template-halfbyte",
+  "version": "1.0.0",
+  "description": "Halfbyte template for create react app",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "create-react-app",
+    "template"
+  ],
+  "author": "Pah Ferreira",
+  "license": "MIT"
+}
