@@ -2,8 +2,8 @@ import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom'
 import Routes from './router'
 import { ThemeProvider } from 'styled-components'
-import theme from './utils/theme'
-import GlobalTheme from './utils/GlobalTheme'
+import theme from './lib/styled/theme'
+import GlobalTheme from './lib/styled/GlobalTheme'
 import { Provider } from 'react-redux'
 import store from 'lib/redux'
 
